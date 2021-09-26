@@ -1,4 +1,4 @@
-# Philippine Modules
+# Philippines
 
 ## [Module 0: Gentle Introduction to GIS concepts](module0/module0.html)
 ## [Module 1: Introduction to QGIS](module1/module1.html)
