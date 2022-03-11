@@ -91,12 +91,12 @@ You can also load the features from OSM as vector data in QGIS. This can be done
 
 OSM feature data can also be directly loaded in QGIS using the QuickOSM plugin. This plugin takes advantage of the Overpass API ([https://wiki.openstreetmap.org/wiki/Overpass_API](https://wiki.openstreetmap.org/wiki/Overpass_API)) that allows users to quickly select a subset of OSM data using queries. This is made possible because features in OSM ([https://wiki.openstreetmap.org/wiki/Mapfeatures](https://wiki.openstreetmap.org/wiki/Mapfeatures)) are tagged using a free tagging system ([https://wiki.openstreetmap.org/wiki/Tags](https://wiki.openstreetmap.org/wiki/Tags)) that allows the map to include an unlimited number of attributes describing each feature. These tags can then be used to query certain features based on their attributes/tags.
 
-Usually, the OSM community and local communities agree on certain key and value combinations suitable for the most commonly used tags which ten act as an informal standard. This ensures that data users can expect consistency in tagging common features such as roads, buildings, etc. However. users can always create new tags to improve the style of the map or support analyses that rely on previously unmapped attributes or tags of the features.
+Usually, the OSM community and local communities agree on certain key and value combinations suitable for the most commonly used tags which then act as an informal standard. This ensures that data users can expect consistency in tagging common features such as roads, buildings, etc. However. users can always create new tags to improve the style of the map or support analyses that rely on previously unmapped attributes or tags of the features.
 
 
 #### **Exercise 1: Loading OSM data in QGIS using the QuickOSM plugin**
 
-or this exercise, we will load road network data and locations of fast food chains from OSM that can be found in the province of Pampanga using the QuickOSM plugin.
+For this exercise, we will load road network data and locations of fast food chains from OSM that can be found in the province of Pampanga using the QuickOSM plugin.
 
 QuickOSM works by querying the tags (keys and values) of the features in OSM. For more information about how to use the key/value in QuickOSM, go to: [https://wiki.openstreetmap.org/wiki/Mapfeatures](https://wiki.openstreetmap.org/wiki/Mapfeatures.).
 
