@@ -540,7 +540,7 @@ When the base layer is updated, you need to refresh the map display by panning o
 1. True or False:
     
     1. When exporting a vector layer, you can select the format to save it to. -- ***True***
-    2. Temporary (or scratch) layers are always forgotten by QGIS when it is closed. -- ***False (they can be made persistent by using the Memroy Layer Saver plugin)***
+    2. Temporary (or scratch) layers are always forgotten by QGIS when it is closed. -- ***False (they can be made persistent by using the Memory Layer Saver plugin)***
     3. When the base layer for a virtual layer is updated, the virtual layer is automatically updated on the map canvas without need for user input. -- ***False (the user needs to update the  map canvas either by panning or zooming before the virtual layer update is reflected on the canvas)***
 
 
