@@ -132,7 +132,7 @@ Figure 6.3: Docked attribute table
 
 3. For area calculations, the Coordinate Reference System should be a projected one. This allows you to calculate distances correctly. Remember, our interest is to automatically calculate the area for each of the 81 provinces. Check the Coordinate Reference System of the vector layer. If it’s a geographic coordinate reference system, then reproject the layer to a projected coordinate system. Check for different projections on the [EPSG](https://epsg.io/?q=Philippines%20kind%3APROJCRS) website. This is the Philippines, we’ll use [PRS92 / Philippines Zone 3](https://epsg.io/3123), EPSG:3123. From previous modules where map projections are extensively discussed, you may already know that map projections are applied relative to a given location on earth. 
 
-4. Check the project Settings; Go to: **Project ‣ Properties Properties ‣ General**.
+4. Check the project Settings; Go to: **Project ‣ Properties ‣ General**.
 
 ![Planimetric](media/gen-settings.png "Planimetric")
 
