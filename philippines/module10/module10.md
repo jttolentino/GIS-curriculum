@@ -261,7 +261,7 @@ Figure 10.11b - Setting up the parameters for the Load them All plugin (vectors 
 
 The parameters identified above represent an example based on the structure available. You can change it however you see fit based on your files on your computer. 
 
-Note that after completing the 
+Note that after completing the _____ (missing information).
 
 The results of running Load them All plugin with the above parameters are presented in figure 10.11c (vectors) and 10.11d (rasters). 
 
@@ -798,7 +798,7 @@ The result should look like in figure 10.17g.
 
 Figure 10.17g - Automatically styled raster dataset using table2style plugin
 
-For a detailed description of the plugin capab[https://github.com/ptarroso/table2style](https://github.com/ptarroso/table2style)ilities, together with a more comprehensive tutorial, check the Table 2 Style plugin webpage. 
+For a detailed description of the plugin capabilities, together with a more comprehensive tutorial, check the Table 2 Style plugin webpage, [https://github.com/ptarroso/table2style](https://github.com/ptarroso/table2style). 
 
 
 #### **ORS Tools**
